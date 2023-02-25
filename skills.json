@@ -1,11 +1,10 @@
 {
 	"Skills, that I will operate after this course":
 				{
-					"*":"Testing theory",
-					"*":"Theory of client server architecture",
-					"*":"SQL basics",
-					"*":"Mobile testing",
-					"*":"Sniffing http web traffic via Charles & Fiddler",
-					"etc" 
+					"1":"Testing theory",
+					"2":"Theory of client server architecture",
+					"3":"SQL basics",
+					"4":"Mobile testing",
+					"5":"Sniffing http web traffic via Charles & Fiddler etc" 
 				}
 }
