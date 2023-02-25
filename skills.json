@@ -1,10 +1,11 @@
 {
 	"Skills, that I will operate after this course":
 				{
-					"GitBash",
-					"GitHub",
-					"SQL",
-					"Postman",
-					"Charles"
+					"*":"Testing theory",
+					"*":"Theory of client server architecture",
+					"*":"SQL basics",
+					"*":"Mobile testing",
+					"*":"Sniffing http web traffic via Charles & Fiddler",
+					"etc" 
 				}
 }
